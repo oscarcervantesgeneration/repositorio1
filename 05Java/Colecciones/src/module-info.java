@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Oscar
- *
- */
-module Colecciones {
-}
