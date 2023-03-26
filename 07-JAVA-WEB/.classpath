@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jw-01-b/demo01/demo01/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-b/demo01/demo01/src/test/java"/>
+	<classpathentry kind="src" path="jw-01-sts/anotaciones/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-sts/anotaciones/src/test/java"/>
+	<classpathentry kind="src" path="jw-01-sts/demo00-1/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-sts/demo00-1/src/test/java"/>
+	<classpathentry kind="src" path="jw-01-sts/demo00/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-sts/demo00/src/test/java"/>
+	<classpathentry kind="src" path="jw-01-sts/ioc/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-sts/ioc/src/test/java"/>
+	<classpathentry kind="src" path="jw-01-sts/ormJpa/src/main/java"/>
+	<classpathentry kind="src" path="jw-01-sts/ormJpa/src/test/java"/>
+	<classpathentry kind="lib" path="jw-01-b/demo01/demo01/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01-sts/anotaciones/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01-sts/demo00-1/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01-sts/demo00/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01-sts/ioc/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01-sts/ormJpa/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="jw-01/proyectoGradle/tareasG/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="jw-01-sts/ormJpa/bin"/>
+</classpath>
